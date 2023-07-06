@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=gruvbox_light)
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=dark&count_private=true)
