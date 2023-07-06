@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)
+![Visitor Count](https://profile-counter.glitch.me/Ed1s0nZ/count.svg)
+
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=dark&count_private=true)
