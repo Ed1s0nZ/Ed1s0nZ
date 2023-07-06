@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)
-- You are my ![Visitor Count](https://profile-counter.glitch.me/Ed1s0nZ/count.svg) visitor,Thank you!🌱
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)   
+You are my ![Visitor Count](https://profile-counter.glitch.me/Ed1s0nZ/count.svg) visitor,Thank you!
 
 
 <!--
