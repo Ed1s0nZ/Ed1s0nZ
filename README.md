@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Edison.   
-- 🔭 I’m  working hard to become a full-stack engineer.
+
 
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)   
@@ -8,6 +8,7 @@
 
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=dark&count_private=true)
+- 🔭 I’m  working hard to become a full-stack engineer.
 **Ed1s0nZ/Ed1s0nZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
