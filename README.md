@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Edison.   
 ### Contact
-- **WeChat:**z1fan7
+- WeChat:z1fan7
 
    
 
