@@ -1,8 +1,4 @@
-### Hi there 👋,I'm Edison.   
-### Contact
-- WeChat:z1fan7
-
-   
+### Hi there 👋,I'm Edison.      
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)   
 
