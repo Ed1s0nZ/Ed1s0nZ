@@ -1,7 +1,5 @@
 ### Hi there 👋,I'm Edison.      
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)   
-
 
 <table>
   <tr>
@@ -9,7 +7,7 @@
     <td>
       <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true"/> 
       <br/>
-      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://komarev.com/ghpvc/?username=Ed1s0nZ" /> <img align="right" src="https://profile-counter.glitch.me/Ed1s0nZ/count.svg" /> </h2> 
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://komarev.com/ghpvc/?username=Ed1s0nZ" /></h2> 
     </td>
   </tr>
 </table>
