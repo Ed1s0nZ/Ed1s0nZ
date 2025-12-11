@@ -3,6 +3,19 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=radical)   
 
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&hide=html"></td>
+    <td>
+      <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true"/> 
+      <br/>
+      <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors  <img align="right" src="https://komarev.com/ghpvc/?username=Ed1s0nZ" /> <img align="right" src="https://profile-counter.glitch.me/Ed1s0nZ/count.svg" /> </h2> 
+    </td>
+  </tr>
+</table>
+
+
+
 <!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=dark&count_private=true)
 - 🔭 I’m  working hard to become a full-stack engineer.
