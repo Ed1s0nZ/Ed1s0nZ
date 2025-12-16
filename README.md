@@ -1,7 +1,7 @@
 Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
 
 ## About My Github
-<div align="center">
+<div align="left">
   <table style="width:100%;">
     <tr>
       <!-- 第一个图片 -->
