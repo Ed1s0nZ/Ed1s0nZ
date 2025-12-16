@@ -10,7 +10,7 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1s0nZ&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1s0nZ&hide=javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=default" />
       </td>
     </tr>
     <!-- 第三个图片 -->
