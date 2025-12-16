@@ -1,21 +1,23 @@
 ### Hi there 👋,I'm Edison.      
 
 
-<div align="center" style="margin: 20px 0;">
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <!-- 左侧：语言统计 -->
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&hide=html&layout=compact&theme=radical" alt="Most Used Languages" />
-    </div>
-
-    <!-- 右侧：综合统计 + 访客 -->
-    <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true&theme=radical" alt="GitHub Stats" />
-      <br /><br />
-      <img src="https://komarev.com/ghpvc/?username=Ed1s0nZ&color=blueviolet&style=flat-square" alt="Profile Views" />
-    </div>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <!-- <td valign="top" width="50%"> -->
+        <img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&hide=html&layout=compact" alt="Top Languages" />
+      </td>
+      <!-- <td valign="top" width="50%"> -->
+        <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <br/><br/>
+        <img src="https://komarev.com/ghpvc/?username=Ed1s0nZ&color=blueviolet&style=flat-square" alt="Profile views" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 
 
