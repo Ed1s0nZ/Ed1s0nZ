@@ -26,11 +26,11 @@
 <!-- 贡献图与成就 -->
 <table>
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&count_private=true&theme=radical&hide_border=true" />
       <br>
       <sub><b>Recent Activity</b></sub>
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ed1s0nZ&theme=react-dark&hide_border=true" alt="Activity Graph" />
       <br>
