@@ -1,4 +1,4 @@
 Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=buefy&count_private=true" alt="Ed1s0nZ Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1s0nZ&layout=compact&theme=buefy" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=synthwave&count_private=true" alt="Ed1s0nZ Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1s0nZ&layout=compact&theme=synthwave" alt="Top Languages" />
