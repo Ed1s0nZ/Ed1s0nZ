@@ -4,10 +4,10 @@
 <div align="center">
   <table>
     <tr>
-      <!-- <td valign="top" width="50%"> -->
+      <td valign="top" width="50%">
         <img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&hide=html&layout=compact" alt="Top Languages" />
       </td>
-      <!-- <td valign="top" width="50%"> -->
+      <td valign="top" width="50%">
         <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true&theme=radical" alt="GitHub Stats" />
         <br/><br/>
         <img src="https://komarev.com/ghpvc/?username=Ed1s0nZ&color=blueviolet&style=flat-square" alt="Profile views" />
