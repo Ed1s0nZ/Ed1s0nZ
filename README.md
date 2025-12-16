@@ -18,10 +18,6 @@
   </tr>
 </table>
 
-<!-- 动态访问计数 -->
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ed1s0nZ&color=blueviolet&style=flat" alt="Visitor Count" />
-</h3>
 
 <!-- 贡献图与成就 -->
 <table>
