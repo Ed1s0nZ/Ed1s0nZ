@@ -7,7 +7,7 @@
     <td>
       <img src="https://github-readme-stats.fireline.fun/api?username=Ed1s0nZ&show_icons=true"/> 
       <br/>
-      <h2 align="left" style="display: inline-block;"> Github Visitors <img align="left" src="https://komarev.com/ghpvc/?username=Ed1s0nZ" /></h2> 
+      <!-- <h2 align="left" style="display: inline-block;"> Github Visitors <img align="left" src="https://komarev.com/ghpvc/?username=Ed1s0nZ" /></h2>  -->
     </td>
   </tr>
 </table>
