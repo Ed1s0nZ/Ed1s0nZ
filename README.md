@@ -18,7 +18,7 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=Ed1s0nZ&theme=default&hide_border=true&area=true" />
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=Ed1s0nZ&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
