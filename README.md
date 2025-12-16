@@ -1,5 +1,5 @@
 <!-- 顶部标题与简介 -->
-<h1 align="center">Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h1>
+<h1 align="left">Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h1>
 
 <!-- 两栏数据统计 -->
 <table>
