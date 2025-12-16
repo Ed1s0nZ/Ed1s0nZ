@@ -3,7 +3,7 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
 ## About Me
 
 📫 **Email**: zhaoyf1104@gmail.com   
-💬 **WeChat**: z1fan7 *(feel free to connect!) * 
+💬 **WeChat**: z1fan7
 
 ---
 
