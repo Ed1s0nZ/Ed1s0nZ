@@ -13,7 +13,7 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=Ed1s0nZ&show_icons=true&theme=default" align="center" />
+	  <img height='160' src="https://github-readme-stats.fireline.fun/api?username=ed1s0nz&show_icons=true" align="center" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
