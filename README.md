@@ -17,7 +17,7 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed1s0nZ&layout=compact&langs_count=8&theme=default" />
+	<img height='160' src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&layout=compact&langs_count=8&theme=default" align="center" />
       </td>
     </tr>
     <!-- 第三个图片 -->
