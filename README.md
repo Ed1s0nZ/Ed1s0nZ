@@ -9,15 +9,15 @@ Hi, I'm <a href="https://github.com/Ed1s0nZ">Ed1s0nZ</a> 👋</h3>
 
 ## My GitHub Stats
 <div align="left">
-  <table style="width:100%;">
+  <table >
     <tr>
       <!-- GitHub 总体统计卡片 -->
       <td align="center">
-        <img height='160' src="https://github-readme-stats.fireline.fun/api?username=ed1s0nz&show_icons=true" align="center" />
+        <img src="https://github-readme-stats.fireline.fun/api?username=ed1s0nz&show_icons=true" align="center" />
       </td>
       <!-- 最常用编程语言统计卡片 -->
       <td align="center">
-        <img height='160' src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&layout=compact&langs_count=8&theme=default" align="center" />
+        <img src="https://github-readme-stats.fireline.fun/api/top-langs/?username=Ed1s0nZ&layout=compact&langs_count=8&theme=default" align="center" />
       </td>
     </tr>
   </table>
