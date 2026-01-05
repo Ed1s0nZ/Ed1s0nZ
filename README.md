@@ -2,13 +2,12 @@
 
 ## About Me
 
-📫 **Email**: zhaoyf1104@gmail.com   
+📫 **Email**: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)     
 💬 **WeChat**: z1fan7
 
 ## Honors & Recognition
 
-🏅 **CNNVD 二级贡献奖（个人）**  
-国家信息安全漏洞库（CNNVD）2024年度（第二期）漏洞奖励获得者（证书编号: CNNVD-JL-2-2024-96）。
+🏅 CNNVD 2024 年度漏洞奖励计划 · 二级贡献奖（个人）
 
 ---
 
