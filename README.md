@@ -5,9 +5,9 @@
 📫 **Email**: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)     
 💬 **WeChat**: z1fan7
 
-> 💡 **Note / 备注**: 
-> 作为一名热爱技术的安全研究员，我在此分享的内容仅出于纯粹的研究与学习初心。愿我们都能用知识守护安全，切勿将其用于任何违法之事。
-> *As a security researcher passionate about technology, everything shared here is purely for research and learning. Let's use knowledge to protect safety, and please never use it for anything illegal.*
+> 💡 **Note / 备注**:    
+> 作为一名热爱技术的安全研究员，我在此分享的内容仅出于纯粹的研究与学习初心。愿我们都能用知识守护安全，切勿将其用于任何违法之事。   
+> *As a security researcher passionate about technology, everything shared here is purely for research and learning. Let's use knowledge to protect safety, and please never use it for anything illegal.*   
 
 ---
 
