@@ -2,7 +2,8 @@
 
 ## About Me
 
-📫 **Email**: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)     
+📫 **Email**: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)   
+💬 **WeChat**: z1fan7
 
 ---
 
