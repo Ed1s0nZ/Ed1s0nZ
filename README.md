@@ -4,6 +4,10 @@
 
 📫 **Email**: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)   
 
+## Honors & Recognition
+
+🏅 CNNVD（国家信息安全漏洞库） 年度漏洞奖励计划 · 二级贡献奖（个人）
+
 ---
 
 ## My GitHub Stats
