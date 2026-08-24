@@ -2,7 +2,7 @@
 
 ## About Me
 
-I build practical cybersecurity tools, with a focus on AI-assisted security automation, vulnerability research, and security engineering.
+My open-source work centers on cybersecurity tooling and AI-driven security automation, spanning vulnerability detection, exposed-asset monitoring, code security review, AI-native security orchestration, and red-team tooling research.
 
 ### Featured Project
 
@@ -26,7 +26,7 @@ Email: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
 
 ## 关于我
 
-我主要构建实用型网络安全工具，关注 AI 辅助安全自动化、漏洞研究，以及安全工程与工具化实践。
+我的开源项目主要围绕网络安全工具化与 AI 安全自动化展开，覆盖漏洞检测、资产暴露监控、代码安全审查、AI 原生安全编排以及红队工具研究。
 
 ### 代表项目
 
