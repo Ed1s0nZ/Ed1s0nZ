@@ -6,11 +6,11 @@ Exploring the evolution of cybersecurity capabilities in the AI era, and buildin
 
 ## Featured Project
 
-[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) — an AI-native cybersecurity action platform that turns security intent into governed, auditable execution.
+I created [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI), an open-source AI-native cybersecurity action platform that turns security intent into governed, auditable execution.
 
 ## Focus
 
-`Cybersecurity` · `Security Automation` · `Vulnerability Research` · `AI-Native Security` · `LLM Security`
+`Cybersecurity` · `AI-Native Security` · `Security Automation` · `Vulnerability Research` · `Agentic Systems` · `LLM Security`
 
 ## Recognition
 
