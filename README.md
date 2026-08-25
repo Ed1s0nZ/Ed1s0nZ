@@ -1,52 +1,21 @@
 # Ed1s0nZ
 
-I build AI-native cybersecurity tools for vulnerability research, security automation, and governed offensive-security workflows.
+Exploring the evolution of cybersecurity capabilities in the AI era, and building more intelligent, governable, and continuously evolving security infrastructure.
 
-我专注于网络安全工具化、AI 安全自动化、漏洞研究与智能体安全编排。
+致力于探索 AI 时代网络安全能力的演进方向，构建更智能、可治理、可持续进化的安全基础设施。
 
----
+## Featured Project
 
-## About
+[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) — an AI-native cybersecurity action platform that turns security intent into governed, auditable execution.
 
-My open-source work centers on cybersecurity tooling and AI-driven security automation, spanning vulnerability detection, exposed-asset monitoring, code security review, AI-native security orchestration, and red-team tooling research.
+## Focus
 
-I care about building practical security systems that turn intent into traceable execution, evidence into operational memory, and repeated security work into reusable workflows.
+`Cybersecurity` · `Security Automation` · `Vulnerability Research` · `AI-Native Security` · `LLM Security`
 
----
+## Recognition
 
-## Selected Work
-
-- [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)  
-  AI-native cybersecurity action platform for governed, auditable security operations.
-
-- [AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot)  
-  AI-powered code security review tool for MR/PR workflows, built around ReAct and MCP-style security analysis.
-
-- [PrivHunterAI](https://github.com/Ed1s0nZ/PrivHunterAI)  
-  AI-assisted authorization vulnerability detection through passive traffic analysis.
-
----
-
-## Focus Areas
-
-`Cybersecurity` · `Security Automation` · `Vulnerability Research` · `AI-Native Security` · `Agentic Systems` · `LLM Security` · `Code Security Review` · `Red Team Tooling`
-
----
-
-## Honors
-
-CNNVD Annual Vulnerability Reward Program · Level 2 Contributor Award (Individual)
-
-CNNVD（国家信息安全漏洞库）年度漏洞奖励计划 · 二级贡献奖（个人）
-
----
-
-## Security Notice
-
-My work is intended for authorized security research, defensive validation, responsible vulnerability discovery, and security automation in environments where testing is explicitly permitted.
-
----
+CNNVD Annual Vulnerability Reward Program · Level 2 Contributor Award
 
 ## Contact
 
-Email: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
+[zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
