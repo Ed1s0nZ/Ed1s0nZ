@@ -6,7 +6,7 @@ Exploring the evolution of cybersecurity capabilities in the AI era, and buildin
 
 ## Featured Project
 
-I created [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI), an open-source AI-native cybersecurity action platform that turns security intent into governed, auditable execution.
+I created [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI), an open-source AI-native cybersecurity action platform that turns intent into governed action, distills evidence into operational memory, and uses every action to improve the next.
 
 ## Focus
 
