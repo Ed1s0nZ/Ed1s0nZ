@@ -1,45 +1,52 @@
-# Hi, I'm [Ed1s0nZ](https://github.com/Ed1s0nZ)
+# Ed1s0nZ
 
-## About Me
+I build AI-native cybersecurity tools for vulnerability research, security automation, and governed offensive-security workflows.
 
-My open-source work centers on cybersecurity tooling and AI-driven security automation, spanning vulnerability detection, exposed-asset monitoring, code security review, AI-native security orchestration, and red-team tooling research.
-
-### Featured Project
-
-[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) is an open-source project I created: an AI-native cybersecurity action platform that turns security intent into governed, auditable execution.
-
-### Focus
-
-`Cybersecurity` · `Security Automation` · `Vulnerability Research` · `AI-Native Security` · `Agentic Systems` · `LLM Security`
-
-### Honors
-
-CNNVD Annual Vulnerability Reward Program · Level 2 Contributor Award (Individual)
-
-### Contact
-
-Email: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
+我专注于网络安全工具化、AI 安全自动化、漏洞研究与智能体安全编排。
 
 ---
 
-# Hi，我是 [Ed1s0nZ](https://github.com/Ed1s0nZ)
+## About
 
-## 关于我
+My open-source work centers on cybersecurity tooling and AI-driven security automation, spanning vulnerability detection, exposed-asset monitoring, code security review, AI-native security orchestration, and red-team tooling research.
 
-我的开源项目主要围绕网络安全工具化与 AI 安全自动化展开，覆盖漏洞检测、资产暴露监控、代码安全审查、AI 原生安全编排以及红队工具研究。
+I care about building practical security systems that turn intent into traceable execution, evidence into operational memory, and repeated security work into reusable workflows.
 
-### 代表项目
+---
 
-[CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) 是我创建的开源项目，一个 AI 原生网络安全行动平台，将安全意图转化为受治理、可审计的执行过程。
+## Selected Work
 
-### 关注方向
+- [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)  
+  AI-native cybersecurity action platform for governed, auditable security operations.
 
-`网络安全` · `安全自动化` · `漏洞研究` · `AI 原生安全` · `智能体系统` · `大模型安全`
+- [AIMergeBot](https://github.com/Ed1s0nZ/AIMergeBot)  
+  AI-powered code security review tool for MR/PR workflows, built around ReAct and MCP-style security analysis.
 
-### 荣誉
+- [PrivHunterAI](https://github.com/Ed1s0nZ/PrivHunterAI)  
+  AI-assisted authorization vulnerability detection through passive traffic analysis.
+
+---
+
+## Focus Areas
+
+`Cybersecurity` · `Security Automation` · `Vulnerability Research` · `AI-Native Security` · `Agentic Systems` · `LLM Security` · `Code Security Review` · `Red Team Tooling`
+
+---
+
+## Honors
+
+CNNVD Annual Vulnerability Reward Program · Level 2 Contributor Award (Individual)
 
 CNNVD（国家信息安全漏洞库）年度漏洞奖励计划 · 二级贡献奖（个人）
 
-### 联系
+---
 
-邮箱：[zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
+## Security Notice
+
+My work is intended for authorized security research, defensive validation, responsible vulnerability discovery, and security automation in environments where testing is explicitly permitted.
+
+---
+
+## Contact
+
+Email: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
