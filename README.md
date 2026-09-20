@@ -2,7 +2,6 @@
 
 Exploring the evolution of cybersecurity capabilities in the AI era, and building more intelligent, governable, and continuously evolving security infrastructure.
 
-致力于探索 AI 时代网络安全能力的演进方向，构建更智能、可治理、可持续进化的安全基础设施。
 
 ## Featured Project
 
