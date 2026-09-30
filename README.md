@@ -1,20 +1,14 @@
-# Ed1s0nZ
+# About Me
 
-Exploring the evolution of cybersecurity capabilities in the AI era, and building more intelligent, governable, and continuously evolving security infrastructure.
+- Creator of [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI), an open-source, AI-native cybersecurity platform.
+- Interested in AI for cybersecurity, vulnerability research, and LLM security.
+- Recipient of the CNNVD Annual Vulnerability Reward Program's Level 2 Contributor Award (Individual).
+- Contact: [zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
 
+# 关于我
 
-## Featured Project
-
-I created [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI), an open-source AI-native cybersecurity action platform that turns intent into governed action, distills evidence into operational memory, and uses every action to improve the next.
-
-## Focus
-
-`Cybersecurity` · `AI-Native Security` · `Security Automation` · `Vulnerability Research` · `Agentic Systems` · `LLM Security`
-
-## Recognition
-
-CNNVD Annual Vulnerability Reward Program · Level 2 Contributor Award
-
-## Contact
-
-[zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
+- 开源 AI 原生网络安全平台 [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) 的创建者。
+- 关注 AI 在网络安全中的应用、漏洞研究与大模型安全。
+- 获 CNNVD（国家信息安全漏洞库）年度漏洞奖励计划二级贡献奖（个人）。
+- 微信公众号：**低调学AI**
+- 联系我：[zhaoyf1104@gmail.com](mailto:zhaoyf1104@gmail.com)
